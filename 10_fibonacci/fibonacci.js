@@ -12,7 +12,7 @@ while (i <= a) {
     n2 = aux;
     i++;
 }
-if (a <= 0) {
+if (a <= 0) {cd..
     return 'OOPS';
 }
 else {
